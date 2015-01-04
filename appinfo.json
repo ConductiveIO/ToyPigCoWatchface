@@ -9,8 +9,13 @@
     "resources": {
         "media": [
             {
-                "file": "images/toypig_logo_black copy copy-resized.png",
+                "file": "images/toypig_logo_black copy copy-resized-filledin.png",
                 "menuIcon": true,
+                "name": "TPC_LOGO_SMALL",
+                "type": "png"
+            },
+            {
+                "file": "images/toypig_logo_black copy copy-resized.png",
                 "name": "TPC_LOGO",
                 "type": "png"
             },
