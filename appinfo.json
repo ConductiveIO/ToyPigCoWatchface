@@ -1,0 +1,32 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Toy Pig Co",
+    "longName": "Toy Pig Co Watchface",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/toypig_logo_black copy copy-resized.png",
+                "menuIcon": true,
+                "name": "TPC_LOGO",
+                "type": "png"
+            },
+            {
+                "characterRegex": "[0-9:.]",
+                "file": "fonts/Anton.ttf",
+                "name": "FONT_ANTON_28",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "ToyPigCo",
+    "uuid": "757b1b6d-37b4-4e5a-a7c0-1ca5b017d8f4",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
